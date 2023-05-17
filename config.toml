@@ -56,6 +56,12 @@ theme = "hugo-hero-theme"
     name = "Contact"
     url = "/contact/"
     weight = 4
+    
+[[menu.main]]
+    name = "Asd"
+    url = "/asd/"
+    weight = 4
+    
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
