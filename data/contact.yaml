@@ -1,13 +1,13 @@
 email: 'example@example.com'
-phone: 'XXXX XXX XXX'
+phone: '12345678'
 businessName: 'Hugo Serif'
 address: |
   123 Some Street
-  City, State 12345
+  City, State 54321
 hours:
   - day: Monday
-    open: 8:30am
-    close: 5:00pm
+    open: 7:30am
+    close: 8:00pm
   - day: Tuesday
     open: 8:30am
     close: 5:00pm
@@ -19,10 +19,10 @@ hours:
     close: 5:00pm
   - day: Friday
     open: 8:30am
-    close: 5:00pm
+    close: 7:00pm
   - day: Saturday
     open: Closed
-    close:
+    close: 
   - day: Sunday
     open: Closed
     close:
